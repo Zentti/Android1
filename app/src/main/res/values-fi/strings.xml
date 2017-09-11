@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_land">Terve vaakatasoinen maailma!</string>
+    <string name="hello_world">Terve Maailma!</string>
+
+</resources>
